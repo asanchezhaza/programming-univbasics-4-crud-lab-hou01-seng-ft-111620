@@ -24,7 +24,7 @@ end
 
 def remove_element_from_start_of_array(array)
  array = ["I", "am", "really", "learning"]
- elementt_from_end = array.shift 
+ elementt_from_start = array.shift 
 end
 
 def retrieve_element_from_index(array, index_number)
